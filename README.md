@@ -46,12 +46,12 @@ This project analyzes the fundamental relationship between **Economic Freedom** 
 ---
 
 ## 📂 Repository Structure
-* **/Data**: Raw and cleaned 2022 Economic Freedom Dataset (CSV).
-* **/Workbook**: The final Tableau Packaged Workbook (.twbx).
-* **/Reports**: Documentation for Phases 1 through 7 (SDLC).
+
+* **/Project Documents**: Documentation for Phases 1 through 7 (SDLC), Raw and cleaned 2022 Economic Freedom Dataset (CSV) and The final Tableau Packaged Workbook (.twbx).
+*  **/Video Demo**: Video demonstration of project.
 
 ---
 
 ## 🌟 Future Enhancements
 * **Predictive Trends**: Integrating 5-year GDP Growth Rate (%) forecasts for emerging economies.
-* **Live Connectivity**: Linking Tableau to live economic APIs for real-time global updates [cite: Screenshot 2026-02-25 122836.png
+* **Live Connectivity**: Linking Tableau to live economic APIs for real-time global updates 
