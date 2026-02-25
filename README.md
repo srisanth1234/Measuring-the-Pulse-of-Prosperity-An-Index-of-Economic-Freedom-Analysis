@@ -16,7 +16,7 @@ This project analyzes the fundamental relationship between **Economic Freedom** 
 
 ## 🎬 Live Demonstration
 * **📊 Interactive Dashboard:** [View on Tableau Public](https://public.tableau.com/app/profile/srisanth.y/viz/Prosperity_Index_Analysis_TMIDS82444/Story1?publish=yes)
-* **📽️ Project Walkthrough:** [Watch Demo on Google Drive](https://drive.google.com/file/d/1_Ecs7F4RHQpLPWXWkSw6NhNfbJrU7LW8/view?usp=drive_link)
+* **📽️ Project Walkthrough:** [Watch Demo on Google Drive](https://drive.google.com/file/d/1pcmV6YmhDYKApknHfi8nSextZtdyUmQc/view?usp=drive_link)
 
 ---
 
